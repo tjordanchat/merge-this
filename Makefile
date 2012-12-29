@@ -1,3 +1,7 @@
+
+setup:
+	exit 0
+
 bzr:
 	env VCS=bzr prove -lr t
 
